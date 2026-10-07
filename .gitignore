@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyd
+*.pdb
+*.lib
+build/
+debug.log
+*.sav
+*.gba
+*.agb
+*.rom
+*.bios
+!examples/gradient_demo.gba
