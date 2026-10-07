@@ -1,4 +1,4 @@
-# GBA emulator learning project
+# gb-advanced-emulator — GBA emulator learning project
 
 This is a from-scratch learning project for a Game Boy Advance emulator. It can load ROMs, render several GBA graphics modes, run an expanding subset of ARM/Thumb instructions, advance approximate timer/display timing, handle IRQ dispatch, and persist SRAM/Flash/EEPROM saves. Direct Sound A/B and first-pass pulse, wave, and noise channels are mixed and played on Windows. It still does not run commercial games reliably: CPU coverage, BIOS services, sound accuracy, and hardware-accurate timing remain incomplete.
 
