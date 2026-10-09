@@ -4,7 +4,7 @@ An early Game Boy Advance emulator built from scratch.
 
 ## Try it
 
-Download [Windows app and demo](dist/GbaEmulator-Windows-x64-with-demo.zip). Extract and run **GbaEmulator.exe**. Open **gradient_demo.gba**, then click **Run**. Windows 10 x64; Python isn’t needed.
+Download the [Windows executable](dist/GbaEmulator.exe). Open a GBA ROM you may use and click **Run**. Windows 10 x64; Python isn’t needed.
 
 ![Demo screenshot](docs/images/emulator-demo.png)
 
