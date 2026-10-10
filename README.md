@@ -1,6 +1,6 @@
 # GBA Emulator
 
-An early Game Boy Advance emulator built from scratch.
+An early Game Boy Advance emulator 
 
 ## Try it
 
